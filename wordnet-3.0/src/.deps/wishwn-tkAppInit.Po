@@ -1,0 +1,99 @@
+wishwn-tkAppInit.o wishwn-tkAppInit.o: tkAppInit.c /usr/include/tk.h \
+  /System/Library/Frameworks/Tcl.framework/Versions/8.5/Headers/tcl.h \
+  /usr/include/stdio.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_symbol_aliasing.h \
+  /usr/include/sys/_posix_availability.h /usr/include/Availability.h \
+  /usr/include/AvailabilityInternal.h /usr/include/_types.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/i386/_types.h /usr/include/secure/_stdio.h \
+  /usr/include/secure/_common.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h \
+  /System/Library/Frameworks/Tcl.framework/Versions/8.5/Headers/tclDecls.h \
+  /System/Library/Frameworks/Tcl.framework/Versions/8.5/Headers/tclPlatDecls.h \
+  /usr/include/X11/Xlib.h /usr/include/sys/types.h \
+  /usr/include/sys/appleapiopts.h /usr/include/machine/types.h \
+  /usr/include/i386/types.h /usr/include/i386/_types.h \
+  /usr/include/machine/endian.h /usr/include/i386/endian.h \
+  /usr/include/sys/_endian.h /usr/include/libkern/_OSByteOrder.h \
+  /usr/include/libkern/i386/_OSByteOrder.h /usr/include/sys/_structs.h \
+  /usr/include/X11/X.h /usr/include/X11/Xfuncproto.h \
+  /usr/include/X11/Xosdefs.h \
+  /usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h \
+  /usr/include/tkDecls.h /usr/include/locale.h /usr/include/_locale.h \
+  /usr/include/math.h /usr/include/architecture/i386/math.h
+
+/usr/include/tk.h:
+
+/System/Library/Frameworks/Tcl.framework/Versions/8.5/Headers/tcl.h:
+
+/usr/include/stdio.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/sys/_symbol_aliasing.h:
+
+/usr/include/sys/_posix_availability.h:
+
+/usr/include/Availability.h:
+
+/usr/include/AvailabilityInternal.h:
+
+/usr/include/_types.h:
+
+/usr/include/sys/_types.h:
+
+/usr/include/machine/_types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/secure/_stdio.h:
+
+/usr/include/secure/_common.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h:
+
+/System/Library/Frameworks/Tcl.framework/Versions/8.5/Headers/tclDecls.h:
+
+/System/Library/Frameworks/Tcl.framework/Versions/8.5/Headers/tclPlatDecls.h:
+
+/usr/include/X11/Xlib.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/sys/appleapiopts.h:
+
+/usr/include/machine/types.h:
+
+/usr/include/i386/types.h:
+
+/usr/include/i386/_types.h:
+
+/usr/include/machine/endian.h:
+
+/usr/include/i386/endian.h:
+
+/usr/include/sys/_endian.h:
+
+/usr/include/libkern/_OSByteOrder.h:
+
+/usr/include/libkern/i386/_OSByteOrder.h:
+
+/usr/include/sys/_structs.h:
+
+/usr/include/X11/X.h:
+
+/usr/include/X11/Xfuncproto.h:
+
+/usr/include/X11/Xosdefs.h:
+
+/usr/llvm-gcc-4.2/bin/../lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h:
+
+/usr/include/tkDecls.h:
+
+/usr/include/locale.h:
+
+/usr/include/_locale.h:
+
+/usr/include/math.h:
+
+/usr/include/architecture/i386/math.h:
